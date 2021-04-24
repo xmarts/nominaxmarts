@@ -1,0 +1,4 @@
+[submodule "xmarts/hr-payroll-mxn"]
+	path = xmarts/hr-payroll-mxn
+	url = git@github.com:xmarts/hr-payroll-mxn.git
+	branch = 14.0-dev-pog
